@@ -164,7 +164,7 @@ As of now the Othello server will only run the most recently uploaded script.
 You should try to put all your code in a single file and upload that file.
 Any files created by your code will persist between runs and games.
 If you do in fact need other files for your code to work, and it is infeasible to include it in one file,
-contact othello@tjhsst.edu or your AI teacher about your situation.
+contact othello@tjhsst.edu or ask your AI teacher about your situation.
 
 !!! warning
 
